@@ -1,4 +1,4 @@
-# 
+# 独家 OBS Studio 插件 Mac OS版 | 顶级 OBS Studio 插件 PC Windows版。集成 转场效果 和 插件管理，跨平台性能最大化。
 
 
 
